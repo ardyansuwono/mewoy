@@ -5,7 +5,7 @@ import { HttpsProxyAgent } from 'https-proxy-agent';
 import url from 'url';
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 8080;
 
 // Configuration dari environment variables
 const PROXY_URL = process.env.PROXY_URL || 'http://efhjfxos:fqzez23px4o5@45.39.73.12:5427';
