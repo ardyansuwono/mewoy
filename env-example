@@ -1,0 +1,5 @@
+PORT=3000
+PROXY_URL=http://efhjfxos:fqzez23px4o5@45.39.73.12:5427
+TARGET_HOST=mwmpos01.akamaized.net
+REFERER_URL=https://www.mewatch.sg/
+NODE_ENV=development

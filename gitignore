@@ -1,0 +1,68 @@
+# Dependencies
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+.env.production.local
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.AppleDouble
+.LSOverride
+*.iml
+.sublime-project
+.sublime-workspace
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Zeabur
+.zeabur/
+zeabur.json
+
+# Logs
+logs/
+*.log
+lerna-debug.log*
+
+# Cache & Temp
+.cache/
+.npm/
+tmp/
+temp/
+*.tmp
+
+# Build & Dist
+dist/
+build/
+coverage/
+
+# Git
+.git
+.gitignore
+.github/
+
+# Testing
+.test/
+test/
+*.test.js
+__tests__/
+jest.config.js
+
+# Development
+.next/
+.nuxt/
+out/
